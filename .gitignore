@@ -1,0 +1,18 @@
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar pastas de IDEs
+**/.idea/
+
+# Ignorar arquivos compilados e de cache
+**/__pycache__/
+**/*.pyc
+**/out/
+
+# Ignorar dependências Node.js
+**/node_modules/
+
+# Ignorar arquivos específicos
+*.log
+*.iml
